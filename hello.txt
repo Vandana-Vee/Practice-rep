@@ -1,2 +1,3 @@
 echo 'Welcome to git learning!'
 echo 'This is a second edit.'
+echo 'Adding a third line.This probably doesnt exist in the other branch(master)'
